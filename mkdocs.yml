@@ -1,0 +1,10 @@
+site_name: RaceMini
+theme:
+  name: material
+plugins:
+  - search:
+      lang:
+        - en
+        - ru
+markdown_extensions:
+  - attr_list

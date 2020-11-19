@@ -1,4 +1,4 @@
-site_name: RaceMini
+site_name: COEX RaceMini
 theme:
   name: material
 plugins:
@@ -8,3 +8,7 @@ plugins:
         - ru
 markdown_extensions:
   - attr_list
+
+
+extra_css:
+    - css/extra.css

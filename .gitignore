@@ -1,2 +1,6 @@
 site/
 *.psd
+html_parser.py
+metric.txt
+build.bat
+*.zip

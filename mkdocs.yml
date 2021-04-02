@@ -12,3 +12,9 @@ markdown_extensions:
 
 extra_css:
     - css/extra.css
+
+pages:
+    - 'Сборка гоночного дрона COEX Race Mini' : index.md
+    - 'Настройка пульта' : rc.md
+    - 'Настройка полетного контроллера' : setup.md
+    - '3D-печать рамы' : 3d_print.md

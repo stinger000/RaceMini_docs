@@ -4,7 +4,7 @@
 
 Скачайте последнюю версию Betaflight Configurator из [официального репозитория](https://github.com/betaflight/betaflight-configurator/releases) и установите её на свой компьютер. Запустите Betaflight Configurator. Зажмите кнопку на полетном контроллере и подключите его к компьютеру с помощью разъема Micro USB. Убедитесь, что в Betaflight Configurator полетный контроллер отображается в режиме **DFU**. Нажмите на кнопку Update Firmware. В списке плат выберите **BETAFLIGHTF4**, в списке версий выберите последнюю стабильную версию. Нажмите <span class="betaflight_button">Load Firmware [Online]</span>, а затем <span class="betaflight_button">Flash Firmware</span>.
 ![_image](img/beta_dfu.png)
-После удачной прошивки подключитесь к полетному контроллеру и перейдите во вкладку **CLI**.M Откройте <a href="../res/dump.txt" target="_blank">файл конфигурации</a>, скопируйте его содержимое и вставьте в строку ввода команд, затем нажмите <span class="shortcutkey">Enter</span>. Полетный контроллер перезапустится. На этом его настройка закончена.
+После удачной прошивки подключитесь к полетному контроллеру и перейдите во вкладку **CLI** Откройте <a href="../res/dump.txt" target="_blank">файл конфигурации</a>, скопируйте его содержимое и вставьте в строку ввода команд, затем нажмите <span class="shortcutkey">Enter</span>. Полетный контроллер перезапустится. На этом его настройка закончена.
 ![_image](img/beta_cli.png)
 
 ## Настройка ESC

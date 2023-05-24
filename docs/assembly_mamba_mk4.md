@@ -52,7 +52,7 @@
 ## Установка полетного контроллера
 
 Внешний вид полетного контроллера:
-![_image](img/fc_mamba.jpg)
+![_image](img/fc_mamba_mk4.webp)
 
 ### Подключение видеопередатчика
 Для видеопередатчика IFlight воспользуйтесь данной инструкцией. Если в комплекте с дроном идет видеопередатчик Mamba, то
@@ -110,7 +110,7 @@
 провод к контакту 5V, **черный** - к контакту GND,
 <span style="color:goldenrod;">желтый</span> - к контакту VTX и
 <span class="outlined">белый</span> - к контакту TX3:
-![_image](img/mamba/vtx_pads.jpg)
+![_image](img/mamba_mk4/vtx_pads.jpg)
 
 ### Подключение камеры
 
@@ -121,7 +121,7 @@
 **черный** провод - к контакту GND,
 <span style="color:goldenrod;">желтый</span> - к контакту CAM,
 <span style="color:red">красный</span> - к контакту 5V, как показано на схеме:
-![_image](img/mamba/cam_pads.jpg)
+![_image](img/mamba_mk4/cam_pads.jpg)
 
 ### Подключение светодиодной ленты
 
@@ -131,7 +131,7 @@
 **черный** к контакту GND,
 <span style="color:red">красный</span> к контакту 5V полетного контроллера, и
 <span style="color:goldenrod;">желтый</span> к контакту LED, как показано на схеме:
-![_image](img/mamba/led_pads.jpg)
+![_image](img/mamba_mk4/led_pads.jpg)
 
 ### Подключение радиоприемника
 
@@ -141,7 +141,7 @@
 <span style="color:red">красный</span>
 провод к контакту +5V, **черный** - к контакту G,
 <span style="color:goldenrod;">желтый</span> - к контакту RX1, как показано на рисунке:
-![_image](img/mamba/rc_pads.jpg)
+![_image](img/mamba_mk4/rc_pads.jpg)
 Наденьте термоусадку на радиоприемник и усадите:
 ![_image](img/rc_shrinked.jpg)
 После этого подключите приемник к припаянному только что кабелю.

@@ -17,7 +17,8 @@ nav:
     - 'Сборка гоночного дрона COEX Race Mini' : assembly_index.md
     - 'Варианты сборки':
         - 'Комплектующие iflight': assembly_iflight.md
-        - 'Комплектующие mamba': assembly_mamba.md
+        - 'Комплектующие mamba mk3': assembly_mamba.md
+        - 'Комплектующие mamba mk4': assembly_mamba_mk4.md
     - 'Настройка пульта' : rc.md
     - 'Настройка полетного контроллера' : setup.md
     - '3D-печать рамы' : 3d_print.md
